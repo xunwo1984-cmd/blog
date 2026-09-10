@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>寻我笔记</title>
+    <link>https://xunwo1984-cmd.github.io/blog</link>
+    <description>记录自己的日常生活。</description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>你好,世界</title>
+      <link>https://xunwo1984-cmd.github.io/blog/posts/hello-world/</link>
+      <guid>https://xunwo1984-cmd.github.io/blog/posts/hello-world/</guid>
+      <pubDate>Thu, 10 Sep 2026 10:08:35 GMT</pubDate>
+      <description>我在 GitPress 上的第一篇文章。</description>
+    </item>
+  </channel>
+</rss>

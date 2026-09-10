@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xunwo1984-cmd.github.io/blog/sitemap.xml
